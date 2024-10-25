@@ -1,5 +1,4 @@
 # quickstart_exe.py
-#testing git
 import time
 import asyncio
 async def main():
